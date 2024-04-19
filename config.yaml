@@ -1,0 +1,8 @@
+Paths:
+  spinesPath : './inputData/spines/'
+  dendriticShaftPath : './inputData/dendrites/'
+  metadataPath : './inputData/metadata/'
+  rawPath : './inputData/raw/'
+  outputPath : './outputData/'
+Options:
+  joinUnconnectedElements : True
